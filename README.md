@@ -15,5 +15,5 @@ curl -sL https://raw.githubusercontent.com/01101010110/proot-distro-scripts/main
 ```
 bzw. aus diesem Repo:
 ```
-curl -sL https://raw.githubusercontent.com/vexplained/Termux-Overview/refs/heads/main/xrdp-setup-proot.sh -o xrdp-setup-proot.sh && chmod +x xrdp-setup-proot.sh && source xrdp-setup-proot.sh
+curl -sL https://raw.githubusercontent.com/vexplained/Termux-Overview/main/xrdp-setup-proot.sh -o xrdp-setup-proot.sh && chmod +x xrdp-setup-proot.sh && source xrdp-setup-proot.sh
 ```
