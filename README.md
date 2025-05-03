@@ -9,7 +9,7 @@ Collection of sources to set up and use Linux inside a Termux proot environment.
 
 Adds xRDP support, which allows you to connect to your environment remotely using a computer. 
 
-**Copy and paste inside of your environment:**
+**Copy and paste inside of your environment (proot, not inside Termux):**
 ```
 curl -sL https://raw.githubusercontent.com/01101010110/proot-distro-scripts/main/xrdp-setup.sh -o xrdp-setup.sh && chmod +x xrdp-setup.sh && source xrdp-setup.sh
 ```
